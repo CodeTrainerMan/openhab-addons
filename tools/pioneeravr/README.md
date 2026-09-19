@@ -1,0 +1,1 @@
+Minimal UPnP simulator to verify the pioneeravr binding's model -> thing type discovery mapping without owning real hardware. See https://github.com/openhab/openhab-addons/pull/21718. Usage: python pioneer_upnp_sim.py --model VSX-924 --http-port 9000
